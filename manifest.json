@@ -1,0 +1,11 @@
+{
+  "domain": "smyoo",
+  "name": "Smyoo Devices Integration",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/example",
+  "requirements": [],
+  "dependencies": ["http"],
+  "codeowners": ["@YourGitHubName"],
+  "issue_tracker": "https://github.com/YourGitHubName/smyoo-ha-integration/issues",
+  "version": "1.0.0"
+}
